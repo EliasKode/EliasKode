@@ -4,8 +4,8 @@
 
 📍 Córdoba, Argentina  
 📧 elias.munoz.dev@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eliaskodedev/)  
-📁 [Ver mi CV Español](https://link-a-tu-cv.com) 
-📁 [Ver mi CV Ingles](https://link-a-tu-cv.com)
+📁 [Ver mi CV Español]([https://link-a-tu-cv.com](https://github.com/EliasKode/Cv-Elias-EngEsp/blob/main/CV%20-%20Elias%20M.Mu%C3%B1oz%20Eng.pdf)) 
+📁 [Ver mi CV Ingles]([https://link-a-tu-cv.com](https://github.com/EliasKode/Cv-Elias-EngEsp/blob/main/CV%20-%20Elias%20M.Mu%C3%B1oz%20Esp.pdf))
 
 ---
 
