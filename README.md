@@ -3,8 +3,9 @@
 🎓 **Analista de Sistemas (último año) | Desarrollador Backend .NET y Delphi**
 
 📍 Córdoba, Argentina  
-📧 eliasprototipe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eliaskodedev/)  
-📁 [Ver mi CV](https://link-a-tu-cv.com)  
+📧 elias.munoz.dev@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eliaskodedev/)  
+📁 [Ver mi CV Español](https://link-a-tu-cv.com) 
+📁 [Ver mi CV Ingles](https://link-a-tu-cv.com)
 
 ---
 
