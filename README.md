@@ -1,13 +1,50 @@
-# :computer: Analista de Sistemas de Computación (4to semestre) - Desarrollador de aplicaciones .Net - Bases de Datos - P.O.O. - C#
+# Elías Manuel Muñoz
 
-:dart: Buscando nuevos proyectos para probar mis habilidades en SQL, EntityFramework y LinQ.
+🎓 **Analista de Sistemas (último año) | Desarrollador Backend .NET y Delphi**
 
-:hammer_and_wrench: Diseño de algoritmos orientados a modelos de negocio.
+📍 Córdoba, Argentina  
+📧 eliasprototipe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eliaskodedev/)  
+📁 [Ver mi CV](https://link-a-tu-cv.com)  
 
-:briefcase: Me gustaría utilizar control de versiones en grupo para experimentar la dinámica de trabajo en equipo.
+---
 
-:bulb: Próximos lenguajes: Java y Python.
+## 🛠️ Tecnologías
+- Lenguajes: `C#`, `Delphi/Object Pascal`, `SQL`
+- Frameworks: `.NET Core`, `Entity Framework`, `ADO.NET`
+- DBMS: `SQL Server`, `Firebird`, `Access`
+- Metodologías: `P.O.O`, `SCRUM`, `Clean Architecture`
 
-:email: Contacto personal: elias_tesla@hotmail.com
+---
 
-:page_facing_up: Mi Curriculum: [Enlace a mi CV](https://github.com/EliasKode/Logica2IEFI_EliasMu-oz/blob/master/CV%20-%20El%C3%ADas%20Mu%C3%B1oz%20Developer.pdf)
+## 💼 Experiencia y Proyectos
+- 🧠 Desarrollador en Flexxus S.A. (ERP Legacy con Delphi y Firebird)
+- 📊 Proyecto de tesis: Sistema de evaluación biomecánica para profesionales de salud (privado)
+- 🧪 Practicante en proyectos de escritorio con Windows Forms, CRUDs, reportes PDF y más
+
+---
+
+## 📦 Repositorios destacados
+- 🎯 Interfaz CRUD para gimnasio (C# + Access)
+- 🚗 Sistema de control para estacionamiento (Arrays + lógica básica)
+
+Más proyectos disponibles bajo solicitud 📩
+
+---
+
+## 🌱 Aprendiendo
+- `Java`, `Python`
+- Desarrollo Web con `ASP.NET MVC`, `Blazor`
+
+---
+
+# 🇬🇧 English Version
+
+🎓 Systems Analyst (Final Year) | Backend Developer (.NET & Delphi)  
+📍 Córdoba, Argentina | 💬 Fluent Spanish | Intermediate English  
+
+- ⚙️ Developer at Flexxus S.A., maintaining legacy ERP in Delphi + Firebird  
+- 🧠 Final thesis: Medical system to analyze biomechanical data (available upon request)  
+- 🔐 Private projects available for recruiters upon request  
+
+Let's connect! 🚀
+
